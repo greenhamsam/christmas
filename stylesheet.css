@@ -1,0 +1,24 @@
+body {
+    background-color: red;
+}
+
+h1 {
+	font-family: "Comic Sans MS";
+	color: "white";
+}
+
+p {
+	font-family: "Impact";
+	font-color: "white";
+}
+
+.rainbow {
+  background-image: -webkit-gradient( linear, left top, right top, color-stop(0, #f2f), color-stop(0.3, #22f), color-stop(0.45, #2ff), color-stop(0.6, #2f2),color-stop(0.75, #2f2), color-stop(1, #ff2) );
+  background-image: gradient( linear, left top, right top, color-stop(0, #f2f), color-stop(0.3, #22f), color-stop(0.45, #2ff), color-stop(0.6, #2f2),color-stop(0.75, #2f2), color-stop(0.9, #ff2) );
+  color:transparent;
+  -webkit-background-clip: text;
+  background-clip: text;
+  font-family: "Comic Sans MS";
+  font-size: 36;
+  font-weight: bolder;
+}
