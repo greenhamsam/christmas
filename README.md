@@ -1,3 +1,3 @@
 README
 
-This is just for shits and giggles
+Christmas is a serious business.
